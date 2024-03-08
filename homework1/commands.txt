@@ -16,3 +16,6 @@ PostCode = postcode,
 Street = street
 )
 write.csv(SwissHospitals, "SwissHospitals.csv")
+
+
+-- test
