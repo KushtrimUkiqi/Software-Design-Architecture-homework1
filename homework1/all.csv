@@ -1,9 +1,5 @@
 id,hospital_name,site_name,lat,lon,geo_qual,street,house_number,postcode,city,cc,country,cap_beds,cap_prac,cap_rooms,emergency,facility_type,public_private,list_specs,tel,email,url,ref_date,pub_date,comments
 AT_K101,Rehabilitationszentrum für Herz-Kreislauferkrankungen Bad Tatzmannsdorf,,47.331527108287254,16.22262893566035,-1,Vogelsangweg,11,7431,Bad Tatzmannsdorf,AT,Austria,169,,,,,,,03353 6000 0,,http://www.ska-badtatzmannsdorf.at,01/01/20,04/03/2021,
-AT_K102,Krankenhaus der Barmherzigen Brüder Eisenstadt,,47.84727,16.51378,-1,Johannes von Gott-Platz,1,7000,Eisenstadt,AT,Austria,420,,,,,,"AN, IM, KIJU",02682 601 0,,http://www.barmherzige-brueder.at,01/01/20,04/03/2021,
-AT_K104,Landeskrankenhaus Güssing,,47.049762,16.3212708,-1,Grazer Straße,13,7540,Güssing,AT,Austria,118,,,,,,"AN, IM",05 7979 31000,,http://www.krages.at,01/01/20,04/03/2021,
-AT_K105,Ladislaus Batthyany-Strattmann Krankenhaus Kittsee,,48.09289,17.06505,-1,Hauptplatz,3,2421,Kittsee,AT,Austria,111,,,,,,"AN, IM",05 7979 35000,,http://www.krages.at,01/01/20,04/03/2021,
-AT_K106,Landeskrankenhaus Oberpullendorf,,47.50727,16.50939,-1,Spitalstraße,32,7350,Oberpullendorf,AT,Austria,138,,,,,,"AN, IM",05 7979 34000,,http://www.krages.at,01/01/20,04/03/2021,
 AT_K107,Landeskrankenhaus Oberwart,,47.27995,16.20347,-1,Dornburggasse,80,7400,Oberwart,AT,Austria,338,,,,,,"AN, IM, KIJU",05 7979 32000,,http://www.krages.at,01/01/20,04/03/2021,
 AT_K109,Orthopädisches Klinikum SKA Zicksee,,47.79147,16.9144,-1,Otto-Pohanka-Platz,,7161,St. Andrä am Zicksee,AT,Austria,140,,,,,,,02176 2325,,http://www.kobvskazicksee.at,01/01/20,04/03/2021,
 AT_K111,Heilpädagogisches Zentrum Rust,,47.8016,16.66597,-1,Baumgartenstraße,15a,7071,Rust,AT,Austria,12,,,,,,,05 7979 21000,,http://www.psd-bgld.at,01/01/20,04/03/2021,
